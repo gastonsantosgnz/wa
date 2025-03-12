@@ -1,0 +1,5 @@
+{
+  "/knowledge/[folder]/[file]/page": "app/knowledge/[folder]/[file]/page.js",
+  "/knowledge/[folder]/page": "app/knowledge/[folder]/page.js",
+  "/knowledge/page": "app/knowledge/page.js"
+}

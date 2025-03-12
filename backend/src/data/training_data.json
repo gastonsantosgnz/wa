@@ -1,0 +1,166 @@
+[
+  {
+    "message": "¿Cuándo empiezan las clases del próximo curso?",
+    "intent": "cursos"
+  },
+  {
+    "message": "Necesito información sobre los horarios de clases",
+    "intent": "cursos"
+  },
+  {
+    "message": "¿Cuánto cuesta el curso completo de preparación?",
+    "intent": "cursos"
+  },
+  {
+    "message": "¿Tienen cursos en línea o solo presenciales?",
+    "intent": "cursos"
+  },
+  {
+    "message": "¿Qué incluye el material del curso?",
+    "intent": "cursos"
+  },
+  {
+    "message": "¿Cuánto dura el curso intensivo?",
+    "intent": "cursos"
+  },
+  {
+    "message": "¿Puedo tomar clases individuales?",
+    "intent": "cursos"
+  },
+  {
+    "message": "¿Cuántos alumnos hay por grupo?",
+    "intent": "cursos"
+  },
+
+  {
+    "message": "¿Qué tipo de preguntas vienen en el examen ExIES?",
+    "intent": "examen_admision"
+  },
+  {
+    "message": "¿Cuánto tiempo dura el examen de admisión?",
+    "intent": "examen_admision"
+  },
+  {
+    "message": "¿Es muy difícil el examen para entrar a Enfermería?",
+    "intent": "examen_admision"
+  },
+  {
+    "message": "¿Cuántas preguntas tiene el examen de UABC?",
+    "intent": "examen_admision"
+  },
+  {
+    "message": "¿Qué temas de matemáticas vienen en el ExIES?",
+    "intent": "examen_admision"
+  },
+  {
+    "message": "¿Cómo es la parte de comprensión lectora del examen?",
+    "intent": "examen_admision"
+  },
+  {
+    "message": "¿El examen es en computadora o en papel?",
+    "intent": "examen_admision"
+  },
+  {
+    "message": "¿Hay penalización por respuestas incorrectas en el examen?",
+    "intent": "examen_admision"
+  },
+
+  {
+    "message": "¿Cuáles son los documentos que necesito para inscribirme?",
+    "intent": "proceso_admision"
+  },
+  {
+    "message": "¿Cuándo salen las convocatorias para el próximo semestre?",
+    "intent": "proceso_admision"
+  },
+  {
+    "message": "¿Cómo es el proceso de selección para Medicina?",
+    "intent": "proceso_admision"
+  },
+  {
+    "message": "¿Cuáles son las fechas para inscribirse a la UABC?",
+    "intent": "proceso_admision"
+  },
+  {
+    "message": "¿Dónde tengo que entregar mis documentos para la admisión?",
+    "intent": "proceso_admision"
+  },
+  {
+    "message": "¿Necesito hacer examen para todas las carreras?",
+    "intent": "proceso_admision"
+  },
+  {
+    "message": "¿Cuánto cuesta la ficha para el examen de admisión?",
+    "intent": "proceso_admision"
+  },
+  {
+    "message": "¿Puedo aplicar si vengo de otra universidad?",
+    "intent": "proceso_admision"
+  },
+
+  {
+    "message": "¿A qué hora abren las oficinas?",
+    "intent": "info_negocio"
+  },
+  {
+    "message": "¿Tienen estacionamiento en sus instalaciones?",
+    "intent": "info_negocio"
+  },
+  {
+    "message": "¿Puedo pagar con tarjeta o solo efectivo?",
+    "intent": "info_negocio"
+  },
+  {
+    "message": "¿Dónde están ubicados exactamente?",
+    "intent": "info_negocio"
+  },
+  {
+    "message": "¿Cuál es su número de teléfono?",
+    "intent": "info_negocio"
+  },
+  {
+    "message": "¿Abren los sábados?",
+    "intent": "info_negocio"
+  },
+  {
+    "message": "¿Tienen página web donde pueda ver más información?",
+    "intent": "info_negocio"
+  },
+  {
+    "message": "¿Ofrecen becas o descuentos?",
+    "intent": "info_negocio"
+  },
+
+  {
+    "message": "¿Qué carreras ofrece UABC campus Ensenada?",
+    "intent": "carreras_uabc"
+  },
+  {
+    "message": "¿Cuál es el plan de estudios de Psicología?",
+    "intent": "carreras_uabc"
+  },
+  {
+    "message": "¿Qué puntaje necesito para entrar a Medicina?",
+    "intent": "carreras_uabc"
+  },
+  {
+    "message": "¿Tienen la carrera de Diseño Gráfico en UABC?",
+    "intent": "carreras_uabc"
+  },
+  {
+    "message": "¿Cuántos semestres dura la carrera de Derecho?",
+    "intent": "carreras_uabc"
+  },
+  {
+    "message": "¿Qué campo laboral tiene la carrera de Nutrición?",
+    "intent": "carreras_uabc"
+  },
+  {
+    "message": "¿En qué campus se imparte Ingeniería Civil?",
+    "intent": "carreras_uabc"
+  },
+  {
+    "message": "¿Qué tan buena es la carrera de Contabilidad en UABC?",
+    "intent": "carreras_uabc"
+  }
+] 
